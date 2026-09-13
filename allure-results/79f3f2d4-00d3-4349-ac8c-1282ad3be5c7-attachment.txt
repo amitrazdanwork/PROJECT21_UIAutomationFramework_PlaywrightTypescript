@@ -1,0 +1,5 @@
+Test module is : ProductSearch
+test wants data from .json file
+Opening Login page
+REG_E2E_001 umeshkumar1@gmail.com password1 Health Book
+Test ID is : REG_E2E_001

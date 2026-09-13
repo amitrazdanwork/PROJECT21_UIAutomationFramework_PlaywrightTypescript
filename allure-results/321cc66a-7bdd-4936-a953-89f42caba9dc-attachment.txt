@@ -1,0 +1,10 @@
+Opening Login page
+Clicked on product link for product: Blue Jeans
+Product added to cart correctly for product: Blue Jeans
+Clicked on product link for product: TBlue Jeans
+Product added to cart correctly for product: TBlue Jeans
+Count of selected items in cart:  4
+Inside for loop:  1
+Inside for loop:  2
+Inside for loop:  3
+Inside for loop:  4

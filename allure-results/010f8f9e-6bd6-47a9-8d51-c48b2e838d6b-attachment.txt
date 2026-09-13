@@ -1,0 +1,17 @@
+Opening Login page
+Inside for loop for search results
+Clicked on product link for product: Blue Jeans
+Product added to cart correctly for product: Blue Jeans
+Flag = true
+Inside for loop for search results
+Clicked on product link for product: Blue Jeans
+Product added to cart correctly for product: Blue Jeans
+Flag = true
+Inside for loop for search results
+Clicked on product link for product: TBlue Jeans
+Product added to cart correctly for product: TBlue Jeans
+Flag = true
+Inside for loop for search results
+Clicked on product link for product: TBlue Jeans
+Product added to cart correctly for product: TBlue Jeans
+Flag = true

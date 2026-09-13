@@ -1,0 +1,4 @@
+Test module is : Login
+test wants data from .json file
+Opening Login page
+REG_E2E_001 umeshkumar1@gmail.com password1

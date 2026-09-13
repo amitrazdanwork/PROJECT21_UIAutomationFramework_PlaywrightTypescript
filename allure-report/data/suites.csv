@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","16378","LOGIN_E2E_001 - Login using valid registered credentials @Regression","Microsoft Edge","2026-09-09","passed","2026-09-09","","Login.spec.ts","",""
+"","19650","LOGOUT_E2E_003 - Logout → Login again @Regression","Microsoft Edge","2026-09-09","passed","2026-09-09","","Logout.spec.ts","",""
+"","9810","REG_E2E_001 - Register a new user with valid details @Regression","Microsoft Edge","2026-09-09","passed","2026-09-09","","Registration.spec.ts","",""
+"","21519","LOGOUT_E2E_001 - Login → Logout @Regression @Sanity","Microsoft Edge","2026-09-09","passed","2026-09-09","","Logout.spec.ts","",""
+"","18770","Product Search - Search for an existing product @Regression","Microsoft Edge","2026-09-09","failed","2026-09-09","","ProductSearch.spec.ts","",""
+"","16673","LOGIN_E2E_002 - Login with incorrect password @Regression","Microsoft Edge","2026-09-09","passed","2026-09-09","","Login.spec.ts","",""
+"","56987","REG_E2E_001 - Add one product to cart @Regression","Microsoft Edge","2026-09-09","failed","2026-09-09","","AddToCart.spec.ts","",""
